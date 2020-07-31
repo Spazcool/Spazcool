@@ -31,8 +31,9 @@
 <br />
 
 ---
-
-<img align="center" alt="Spazcool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spazcool&show_icons=true&hide_border=true" />
+<p align="center">
+    <img alt="Spazcool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spazcool&show_icons=true&hide_border=true" />
+</p>
 <br />
 
 ---
