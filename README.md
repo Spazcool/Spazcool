@@ -31,15 +31,17 @@
 <br />
 
 ---
+
+<img align="left" alt="Spazcool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spazcool&show_icons=true&hide_border=true" />
+<br />
+
+---
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
----
-
-<img align="left" alt="Spazcool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spazcool&show_icons=true&hide_border=true" />
 
 [website]: http://www.spazcool.com
 [twitter]: https://twitter.com/SpazC00l
