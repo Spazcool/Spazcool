@@ -36,7 +36,7 @@
 </p>
 
 ---
-
+<span align="center">
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 28 mins   ███████████████████████░░   93.98 % 
@@ -46,7 +46,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 <!--END_SECTION:waka-->
-
+</span>
 [website]: http://www.spazcool.com
 [twitter]: https://twitter.com/SpazC00l
 [linkedin]: https://www.linkedin.com/in/douglaswrightiii/
