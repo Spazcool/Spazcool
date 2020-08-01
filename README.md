@@ -36,9 +36,11 @@
 </p>
 
 ---
-||
-|:--:|
-| <!--START_SECTION:waka-->
+<p align="center">
+    <img src="https://github.com/Spazcool/Spazcool/blob/master/images/stat.svg" alt="Spazcools weekly coding stats"/>
+</p>
+
+<!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 28 mins   ███████████████████████░░   93.98 % 
 HTML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
@@ -47,7 +49,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 <!--END_SECTION:waka--> 
-|
+
 
 [website]: http://www.spazcool.com
 [twitter]: https://twitter.com/SpazC00l
