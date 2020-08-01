@@ -36,8 +36,9 @@
 </p>
 
 ---
-<span align="center">
-<!--START_SECTION:waka-->
+||
+|:--:|
+| <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 28 mins   ███████████████████████░░   93.98 % 
 HTML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
@@ -45,8 +46,9 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
-<!--END_SECTION:waka-->
-</span>
+<!--END_SECTION:waka--> 
+
+
 [website]: http://www.spazcool.com
 [twitter]: https://twitter.com/SpazC00l
 [linkedin]: https://www.linkedin.com/in/douglaswrightiii/
