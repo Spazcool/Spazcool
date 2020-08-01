@@ -47,7 +47,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 <!--END_SECTION:waka--> 
-
+|
 
 [website]: http://www.spazcool.com
 [twitter]: https://twitter.com/SpazC00l
