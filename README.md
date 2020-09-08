@@ -11,6 +11,7 @@
 [<img align="left" alt="Spazc00l | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Douglas Wright III | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/person.svg" />][CV]
 <br />
 
 ### Languages and Tools:
@@ -44,3 +45,4 @@
 [twitter]: https://twitter.com/SpazC00l
 [linkedin]: https://www.linkedin.com/in/douglaswrightiii/
 [email]: mailto:douglas.wrightiii@gmail.com
+[CV]: https://gist.github.com/Spazcool/cf11813a2ef58c3ea116a0e62f61ce7b
