@@ -41,9 +41,6 @@
     <img src="https://github.com/Spazcool/Spazcool/blob/master/images/stat.svg" alt="Spazcools weekly coding stats"/>
 </p>
 
----
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3b499a39-9086-42e1-ba54-d59829b87853" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
 [website]: http://www.spazcool.com
 [twitter]: https://twitter.com/SpazC00l
 [linkedin]: https://www.linkedin.com/in/douglaswrightiii/
