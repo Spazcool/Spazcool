@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-12-05T00:43:55.241686</dc:date>
+    <dc:date>2021-12-06T00:42:38.837201</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,15 +30,15 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#p7f2954178d)" d="M 66.170313 27.358125 
+    <path clip-path="url(#p3f6f0fc876)" d="M 66.170313 27.358125 
 L 597.598884 27.358125 
 L 597.598884 44.158125 
 L 66.170313 44.158125 
 z
-" style="fill:#423de8;stroke:#423de8;stroke-linejoin:miter;"/>
+" style="fill:#0bb2ca;stroke:#0bb2ca;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p7f2954178d)" d="M 66.170313 48.358125 
+    <path clip-path="url(#p3f6f0fc876)" d="M 66.170313 48.358125 
 L 557.985044 48.358125 
 L 557.985044 65.158125 
 L 66.170313 65.158125 
@@ -46,7 +46,7 @@ z
 " style="fill:#2b7489;stroke:#2b7489;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p7f2954178d)" d="M 66.170313 69.358125 
+    <path clip-path="url(#p3f6f0fc876)" d="M 66.170313 69.358125 
 L 139.503891 69.358125 
 L 139.503891 86.158125 
 L 66.170313 86.158125 
@@ -54,15 +54,15 @@ z
 " style="fill:#89e051;stroke:#89e051;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p7f2954178d)" d="M 66.170313 90.358125 
+    <path clip-path="url(#p3f6f0fc876)" d="M 66.170313 90.358125 
 L 125.79668 90.358125 
 L 125.79668 107.158125 
 L 66.170313 107.158125 
 z
-" style="fill:#17f1b9;stroke:#17f1b9;stroke-linejoin:miter;"/>
+" style="fill:#735797;stroke:#735797;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p7f2954178d)" d="M 66.170313 111.358125 
+    <path clip-path="url(#p3f6f0fc876)" d="M 66.170313 111.358125 
 L 116.064561 111.358125 
 L 116.064561 128.158125 
 L 66.170313 128.158125 
@@ -76,10 +76,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m52e8076c7b" style="stroke:#000000;stroke-width:0.8;"/>
+" id="m636f51923b" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m52e8076c7b" y="35.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m636f51923b" y="35.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -150,7 +150,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m52e8076c7b" y="56.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m636f51923b" y="56.758125"/>
       </g>
      </g>
      <g id="text_2">
@@ -356,7 +356,7 @@ z
     <g id="ytick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m52e8076c7b" y="77.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m636f51923b" y="77.758125"/>
       </g>
      </g>
      <g id="text_3">
@@ -489,7 +489,7 @@ z
     <g id="ytick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m52e8076c7b" y="98.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m636f51923b" y="98.758125"/>
       </g>
      </g>
      <g id="text_4">
@@ -554,7 +554,7 @@ z
     <g id="ytick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m52e8076c7b" y="119.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="66.170313" xlink:href="#m636f51923b" y="119.758125"/>
       </g>
      </g>
      <g id="text_5">
@@ -901,7 +901,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- From 27 November, 2021 to 04 December, 2021: 12 hrs 23 mins -->
+    <!-- From 28 November, 2021 to 05 December, 2021: 12 hrs 23 mins -->
     <g style="fill:#586069;" transform="translate(150.229375 16.318125)scale(0.12 -0.12)">
      <defs>
       <path d="M 628 4666 
@@ -1008,6 +1008,31 @@ L 794 0
 L 794 531 
 z
 " id="DejaVuSans-31" transform="scale(0.015625)"/>
+      <path d="M 691 4666 
+L 3169 4666 
+L 3169 4134 
+L 1269 4134 
+L 1269 2991 
+Q 1406 3038 1543 3061 
+Q 1681 3084 1819 3084 
+Q 2600 3084 3056 2656 
+Q 3513 2228 3513 1497 
+Q 3513 744 3044 326 
+Q 2575 -91 1722 -91 
+Q 1428 -91 1123 -41 
+Q 819 9 494 109 
+L 494 744 
+Q 775 591 1075 516 
+Q 1375 441 1709 441 
+Q 2250 441 2565 725 
+Q 2881 1009 2881 1497 
+Q 2881 1984 2565 2268 
+Q 2250 2553 1709 2553 
+Q 1456 2553 1204 2497 
+Q 953 2441 691 2322 
+L 691 4666 
+z
+" id="DejaVuSans-35" transform="scale(0.015625)"/>
       <path d="M 1259 4147 
 L 1259 519 
 L 2022 519 
@@ -1047,7 +1072,7 @@ z
      <use x="150.314453" xlink:href="#DejaVuSans-6d"/>
      <use x="247.726562" xlink:href="#DejaVuSans-20"/>
      <use x="279.513672" xlink:href="#DejaVuSans-32"/>
-     <use x="343.136719" xlink:href="#DejaVuSans-37"/>
+     <use x="343.136719" xlink:href="#DejaVuSans-38"/>
      <use x="406.759766" xlink:href="#DejaVuSans-20"/>
      <use x="438.546875" xlink:href="#DejaVuSans-4e"/>
      <use x="513.351562" xlink:href="#DejaVuSans-6f"/>
@@ -1068,7 +1093,7 @@ z
      <use x="1347.824219" xlink:href="#DejaVuSans-6f"/>
      <use x="1409.005859" xlink:href="#DejaVuSans-20"/>
      <use x="1440.792969" xlink:href="#DejaVuSans-30"/>
-     <use x="1504.416016" xlink:href="#DejaVuSans-34"/>
+     <use x="1504.416016" xlink:href="#DejaVuSans-35"/>
      <use x="1568.039062" xlink:href="#DejaVuSans-20"/>
      <use x="1599.826172" xlink:href="#DejaVuSans-44"/>
      <use x="1676.828125" xlink:href="#DejaVuSans-65"/>
@@ -1105,7 +1130,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p7f2954178d">
+  <clipPath id="p3f6f0fc876">
    <rect height="110.88" width="558" x="66.170313" y="22.318125"/>
   </clipPath>
  </defs>
